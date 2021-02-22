@@ -5338,7 +5338,7 @@ Id,X_ray_image_name,Label,Dataset_type,Result
 5359,Pnemonia_Virus (1340).jpeg ,Pnemonia Virus,TRAIN,0
 5360,Pnemonia_Virus (1341).jpeg ,Pnemonia Virus,TRAIN,0
 5361,Pnemonia_Virus (1342).jpeg ,Pnemonia Virus,TRAIN,0
-5362,Covid-19 (105).png,SARS,TRAIN,0
+5362,SARS (1).jpeg ,SARS,TRAIN,0
 5363,SARS (2).jpeg ,SARS,TRAIN,0
 5364,SARS (3).jpeg ,SARS,TRAIN,0
 5365,SARS (4).jpeg ,SARS,TRAIN,0
@@ -5952,7 +5952,3 @@ Id,X_ray_image_name,Label,Dataset_type,Result
 5973,Pnemonia_Virus (1491).jpeg ,Pnemonia Virus,TEST,0
 5974,Pnemonia_Virus (1492).jpeg ,Pnemonia Virus,TEST,0
 5975,SARS (11).jpeg,SARS,TEST,0
-,,,,
-,,,,
-,,,,
-,,,,
