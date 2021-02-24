@@ -63,13 +63,13 @@ Id,X_ray_image_name,Label,Dataset_type,Result
 61,Covid-19 (60).jpg,COVID-19,TRAIN,1
 62,Covid-19 (61).jpg,COVID-19,TRAIN,1
 63,Covid-19 (62).png,COVID-19,TRAIN,1
-64,Covid-19 (63).png,COVID-19,TRAIN,1
+64,Covid-19 (63).jpg,COVID-19,TRAIN,1
 65,Covid-19 (64).png,COVID-19,TRAIN,1
-66,Covid-19 (65).png,COVID-19,TRAIN,1
+66,Covid-19 (65).jpg,COVID-19,TRAIN,1
 67,Covid-19 (66).png,COVID-19,TRAIN,1
-68,Covid-19 (67).png,COVID-19,TRAIN,1
+68,Covid-19 (67).jpg,COVID-19,TRAIN,1
 69,Covid-19 (68).png,COVID-19,TRAIN,1
-70,Covid-19 (69).png,COVID-19,TRAIN,1
+70,Covid-19 (69).jpg,COVID-19,TRAIN,1
 71,Covid-19 (70).png,COVID-19,TRAIN,1
 72,Covid-19 (71).jpg,COVID-19,TRAIN,1
 73,Covid-19 (72).png,COVID-19,TRAIN,1
@@ -5353,18 +5353,18 @@ Id,X_ray_image_name,Label,Dataset_type,Result
 5374,Streptococcus (3).jpg ,Streptococcus,TRAIN,0
 5375,Streptococcus (4).jpg ,Streptococcus,TRAIN,0
 5376,Streptococcus (5).jpg ,Streptococcus,TRAIN,0
-5377,Covid-19 (106).jpeg,COVID-19,TEST,1
-5378,Covid-19 (107).jpeg,COVID-19,TEST,1
-5379,Covid-19 (108).jpeg,COVID-19,TEST,1
-5380,Covid-19 (109).jpeg,COVID-19,TEST,1
-5381,Covid-19 (110).jpeg,COVID-19,TEST,1
-5382,Covid-19 (111).jpeg,COVID-19,TEST,1
-5383,Covid-19 (112).jpeg,COVID-19,TEST,1
-5384,Covid-19 (113).jpeg,COVID-19,TEST,1
-5385,Covid-19 (114).jpeg,COVID-19,TEST,1
-5386,Covid-19 (115).jpeg,COVID-19,TEST,1
-5387,Covid-19 (116).jpeg,COVID-19,TEST,1
-5388,Covid-19 (117).jpeg,COVID-19,TEST,1
+5377,Covid-19 (106).jpg,COVID-19,TEST,1
+5378,Covid-19 (107).jpg,COVID-19,TEST,1
+5379,Covid-19 (108).jpg,COVID-19,TEST,1
+5380,Covid-19 (109).jpg,COVID-19,TEST,1
+5381,Covid-19 (110).jpg,COVID-19,TEST,1
+5382,Covid-19 (111).jpg,COVID-19,TEST,1
+5383,Covid-19 (112).jpg,COVID-19,TEST,1
+5384,Covid-19 (113).jpg,COVID-19,TEST,1
+5385,Covid-19 (114).jpg,COVID-19,TEST,1
+5386,Covid-19 (115).jpg,COVID-19,TEST,1
+5387,Covid-19 (116).jpg,COVID-19,TEST,1
+5388,Covid-19 (117).jpg,COVID-19,TEST,1
 5389,Normal (1419).jpeg ,Normal,TEST,0
 5390,Normal (1420).jpeg ,Normal,TEST,0
 5391,Normal (1421).jpeg ,Normal,TEST,0
