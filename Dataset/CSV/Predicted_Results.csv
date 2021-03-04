@@ -1,600 +1,600 @@
-prediction
-0
-1
-1
-1
-0
-0
-1
-1
-0
-1
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
+Images,prediction
+Covid-19 (106).jpg,0
+Covid-19 (107).jpg,1
+Covid-19 (108).jpg,1
+Covid-19 (109).jpg,1
+Covid-19 (110).jpg,0
+Covid-19 (111).jpg,0
+Covid-19 (112).jpg,1
+Covid-19 (113).jpg,1
+Covid-19 (114).jpg,0
+Covid-19 (115).jpg,1
+Covid-19 (116).jpg,1
+Covid-19 (117).jpg,1
+Normal (1419).jpeg ,0
+Normal (1420).jpeg ,0
+Normal (1421).jpeg ,0
+Normal (1422).jpeg ,0
+Normal (1423).jpeg ,0
+Normal (1424).jpeg ,0
+Normal (1425).jpeg ,0
+Normal (1426).jpeg ,0
+Normal (1427).jpeg ,0
+Normal (1428).jpeg ,0
+Normal (1429).jpeg ,0
+Normal (1430).jpeg ,0
+Normal (1431).jpeg ,0
+Normal (1432).jpeg ,0
+Normal (1433).jpeg ,0
+Normal (1434).jpeg ,0
+Normal (1435).jpeg ,0
+Normal (1436).jpeg ,0
+Normal (1437).jpeg ,0
+Normal (1438).jpeg ,0
+Normal (1439).jpeg ,0
+Normal (1440).jpeg ,0
+Normal (1441).jpeg ,0
+Normal (1442).jpeg ,0
+Normal (1443).jpeg ,0
+Normal (1444).jpeg ,0
+Normal (1445).jpeg ,0
+Normal (1446).jpeg ,0
+Normal (1447).jpeg ,0
+Normal (1448).jpeg ,0
+Normal (1449).jpeg ,0
+Normal (1450).jpeg ,0
+Normal (1451).jpeg ,0
+Normal (1452).jpeg ,0
+Normal (1453).jpeg ,0
+Normal (1454).jpeg ,0
+Normal (1455).jpeg ,0
+Normal (1456).jpeg ,0
+Normal (1457).jpeg ,0
+Normal (1458).jpeg ,0
+Normal (1459).jpeg ,0
+Normal (1460).jpeg ,0
+Normal (1461).jpeg ,0
+Normal (1462).jpeg ,0
+Normal (1463).jpeg ,0
+Normal (1464).jpeg ,0
+Normal (1465).jpeg ,0
+Normal (1466).jpeg ,0
+Normal (1467).jpeg ,0
+Normal (1468).jpeg ,0
+Normal (1469).jpeg ,0
+Normal (1470).jpeg ,0
+Normal (1471).jpeg ,0
+Normal (1472).jpeg ,0
+Normal (1473).jpeg ,0
+Normal (1474).jpeg ,0
+Normal (1475).jpeg ,0
+Normal (1476).jpeg ,0
+Normal (1477).jpeg ,0
+Normal (1478).jpeg ,0
+Normal (1479).jpeg ,0
+Normal (1480).jpeg ,0
+Normal (1481).jpeg ,0
+Normal (1482).jpeg ,0
+Normal (1483).jpeg ,0
+Normal (1484).jpeg ,0
+Normal (1485).jpeg ,0
+Normal (1486).jpeg ,0
+Normal (1487).jpeg ,0
+Normal (1488).jpeg ,0
+Normal (1489).jpeg ,0
+Normal (1490).jpeg ,0
+Normal (1491).jpeg ,0
+Normal (1492).jpeg ,0
+Normal (1493).jpeg ,0
+Normal (1494).jpeg ,0
+Normal (1495).jpeg ,0
+Normal (1496).jpeg ,0
+Normal (1497).jpeg ,0
+Normal (1498).jpeg ,0
+Normal (1499).jpeg ,0
+Normal (1500).jpeg ,0
+Normal (1501).jpeg ,0
+Normal (1502).jpeg ,0
+Normal (1503).jpeg ,0
+Normal (1504).jpeg ,0
+Normal (1505).jpeg ,0
+Normal (1506).jpeg ,0
+Normal (1507).jpeg ,0
+Normal (1508).jpeg ,0
+Normal (1509).jpeg ,0
+Normal (1510).jpeg ,0
+Normal (1511).jpeg ,0
+Normal (1512).jpeg ,0
+Normal (1513).jpeg ,0
+Normal (1514).jpeg ,0
+Normal (1515).jpeg ,0
+Normal (1516).jpeg ,0
+Normal (1517).jpeg ,0
+Normal (1518).jpeg ,0
+Normal (1519).jpeg ,0
+Normal (1520).jpeg ,0
+Normal (1521).jpeg ,0
+Normal (1522).jpeg ,0
+Normal (1523).jpeg ,0
+Normal (1524).jpeg ,0
+Normal (1525).jpeg ,0
+Normal (1526).jpeg ,0
+Normal (1527).jpeg ,0
+Normal (1528).jpeg ,0
+Normal (1529).jpeg ,0
+Normal (1530).jpeg ,0
+Normal (1531).jpeg ,0
+Normal (1532).jpeg ,0
+Normal (1533).jpeg ,0
+Normal (1534).jpeg ,0
+Normal (1535).jpeg ,0
+Normal (1536).jpeg ,0
+Normal (1537).jpeg ,0
+Normal (1538).jpeg ,0
+Normal (1539).jpeg ,0
+Normal (1540).jpeg ,0
+Normal (1541).jpeg ,0
+Normal (1542).jpeg ,0
+Normal (1543).jpeg ,0
+Normal (1544).jpeg ,0
+Normal (1545).jpeg ,0
+Normal (1546).jpeg ,0
+Normal (1547).jpeg ,0
+Normal (1548).jpeg ,0
+Normal (1549).jpeg ,0
+Normal (1550).jpeg ,0
+Normal (1551).jpeg ,0
+Normal (1552).jpeg ,0
+Normal (1553).jpeg ,0
+Normal (1554).jpeg ,0
+Normal (1555).jpeg ,0
+Normal (1556).jpeg ,0
+Normal (1557).jpeg ,0
+Normal (1558).jpeg ,0
+Normal (1559).jpeg ,0
+Normal (1560).jpeg ,0
+Normal (1561).jpeg ,0
+Normal (1562).jpeg ,0
+Normal (1563).jpeg ,0
+Normal (1564).jpeg ,0
+Normal (1565).jpeg ,0
+Normal (1566).jpeg ,0
+Normal (1567).jpeg ,0
+Normal (1568).jpeg ,0
+Normal (1569).jpeg ,0
+Normal (1570).jpeg ,0
+Normal (1571).jpeg ,0
+Normal (1572).jpeg ,0
+Normal (1573).jpeg ,0
+Normal (1574).jpeg ,0
+Normal (1575).jpeg ,0
+Normal (1576).jpeg ,0
+Pnemonia_Bacteria (2496).jpeg ,0
+Pnemonia_Bacteria (2497).jpeg ,0
+Pnemonia_Bacteria (2498).jpeg ,0
+Pnemonia_Bacteria (2499).jpeg ,0
+Pnemonia_Bacteria (2500).jpeg ,0
+Pnemonia_Bacteria (2501).jpeg ,0
+Pnemonia_Bacteria (2502).jpeg ,0
+Pnemonia_Bacteria (2503).jpeg ,0
+Pnemonia_Bacteria (2504).jpeg ,0
+Pnemonia_Bacteria (2505).jpeg ,0
+Pnemonia_Bacteria (2506).jpeg ,0
+Pnemonia_Bacteria (2507).jpeg ,0
+Pnemonia_Bacteria (2508).jpeg ,0
+Pnemonia_Bacteria (2509).jpeg ,0
+Pnemonia_Bacteria (2510).jpeg ,0
+Pnemonia_Bacteria (2511).jpeg ,0
+Pnemonia_Bacteria (2512).jpeg ,0
+Pnemonia_Bacteria (2513).jpeg ,0
+Pnemonia_Bacteria (2514).jpeg ,0
+Pnemonia_Bacteria (2515).jpeg ,0
+Pnemonia_Bacteria (2516).jpeg ,0
+Pnemonia_Bacteria (2517).jpeg ,0
+Pnemonia_Bacteria (2518).jpeg ,0
+Pnemonia_Bacteria (2519).jpeg ,0
+Pnemonia_Bacteria (2520).jpeg ,0
+Pnemonia_Bacteria (2521).jpeg ,0
+Pnemonia_Bacteria (2522).jpeg ,0
+Pnemonia_Bacteria (2523).jpeg ,0
+Pnemonia_Bacteria (2524).jpeg ,0
+Pnemonia_Bacteria (2525).jpeg ,0
+Pnemonia_Bacteria (2526).jpeg ,0
+Pnemonia_Bacteria (2527).jpeg ,0
+Pnemonia_Bacteria (2528).jpeg ,0
+Pnemonia_Bacteria (2529).jpeg ,0
+Pnemonia_Bacteria (2530).jpeg ,0
+Pnemonia_Bacteria (2531).jpeg ,0
+Pnemonia_Bacteria (2532).jpeg ,0
+Pnemonia_Bacteria (2533).jpeg ,0
+Pnemonia_Bacteria (2534).jpeg ,0
+Pnemonia_Bacteria (2535).jpeg ,0
+Pnemonia_Bacteria (2536).jpeg ,0
+Pnemonia_Bacteria (2537).jpeg ,0
+Pnemonia_Bacteria (2538).jpeg ,0
+Pnemonia_Bacteria (2539).jpeg ,0
+Pnemonia_Bacteria (2540).jpeg ,0
+Pnemonia_Bacteria (2541).jpeg ,0
+Pnemonia_Bacteria (2542).jpeg ,0
+Pnemonia_Bacteria (2543).jpeg ,0
+Pnemonia_Bacteria (2544).jpeg ,0
+Pnemonia_Bacteria (2545).jpeg ,0
+Pnemonia_Bacteria (2546).jpeg ,0
+Pnemonia_Bacteria (2547).jpeg ,0
+Pnemonia_Bacteria (2548).jpeg ,0
+Pnemonia_Bacteria (2549).jpeg ,0
+Pnemonia_Bacteria (2550).jpeg ,0
+Pnemonia_Bacteria (2551).jpeg ,0
+Pnemonia_Bacteria (2552).jpeg ,0
+Pnemonia_Bacteria (2553).jpeg ,0
+Pnemonia_Bacteria (2554).jpeg ,0
+Pnemonia_Bacteria (2555).jpeg ,0
+Pnemonia_Bacteria (2556).jpeg ,0
+Pnemonia_Bacteria (2557).jpeg ,0
+Pnemonia_Bacteria (2558).jpeg ,0
+Pnemonia_Bacteria (2559).jpeg ,0
+Pnemonia_Bacteria (2560).jpeg ,0
+Pnemonia_Bacteria (2561).jpeg ,0
+Pnemonia_Bacteria (2562).jpeg ,0
+Pnemonia_Bacteria (2563).jpeg ,0
+Pnemonia_Bacteria (2564).jpeg ,0
+Pnemonia_Bacteria (2565).jpeg ,0
+Pnemonia_Bacteria (2566).jpeg ,0
+Pnemonia_Bacteria (2567).jpeg ,0
+Pnemonia_Bacteria (2568).jpeg ,0
+Pnemonia_Bacteria (2569).jpeg ,0
+Pnemonia_Bacteria (2570).jpeg ,0
+Pnemonia_Bacteria (2571).jpeg ,0
+Pnemonia_Bacteria (2572).jpeg ,0
+Pnemonia_Bacteria (2573).jpeg ,0
+Pnemonia_Bacteria (2574).jpeg ,0
+Pnemonia_Bacteria (2575).jpeg ,0
+Pnemonia_Bacteria (2576).jpeg ,0
+Pnemonia_Bacteria (2577).jpeg ,0
+Pnemonia_Bacteria (2578).jpeg ,0
+Pnemonia_Bacteria (2579).jpeg ,0
+Pnemonia_Bacteria (2580).jpeg ,0
+Pnemonia_Bacteria (2581).jpeg ,0
+Pnemonia_Bacteria (2582).jpeg ,0
+Pnemonia_Bacteria (2583).jpeg ,0
+Pnemonia_Bacteria (2584).jpeg ,0
+Pnemonia_Bacteria (2585).jpeg ,0
+Pnemonia_Bacteria (2586).jpeg ,0
+Pnemonia_Bacteria (2587).jpeg ,0
+Pnemonia_Bacteria (2588).jpeg ,0
+Pnemonia_Bacteria (2589).jpeg ,0
+Pnemonia_Bacteria (2590).jpeg ,0
+Pnemonia_Bacteria (2591).jpeg ,0
+Pnemonia_Bacteria (2592).jpeg ,0
+Pnemonia_Bacteria (2593).jpeg ,0
+Pnemonia_Bacteria (2594).jpeg ,0
+Pnemonia_Bacteria (2595).jpeg ,0
+Pnemonia_Bacteria (2596).jpeg ,0
+Pnemonia_Bacteria (2597).jpeg ,0
+Pnemonia_Bacteria (2598).jpeg ,0
+Pnemonia_Bacteria (2599).jpeg ,0
+Pnemonia_Bacteria (2600).jpeg ,0
+Pnemonia_Bacteria (2601).jpeg ,0
+Pnemonia_Bacteria (2602).jpeg ,0
+Pnemonia_Bacteria (2603).jpeg ,0
+Pnemonia_Bacteria (2604).jpeg ,0
+Pnemonia_Bacteria (2605).jpeg ,0
+Pnemonia_Bacteria (2606).jpeg ,0
+Pnemonia_Bacteria (2607).jpeg ,0
+Pnemonia_Bacteria (2608).jpeg ,0
+Pnemonia_Bacteria (2609).jpeg ,0
+Pnemonia_Bacteria (2610).jpeg ,0
+Pnemonia_Bacteria (2611).jpeg ,0
+Pnemonia_Bacteria (2612).jpeg ,0
+Pnemonia_Bacteria (2613).jpeg ,0
+Pnemonia_Bacteria (2614).jpeg ,0
+Pnemonia_Bacteria (2615).jpeg ,0
+Pnemonia_Bacteria (2616).jpeg ,0
+Pnemonia_Bacteria (2617).jpeg ,0
+Pnemonia_Bacteria (2618).jpeg ,0
+Pnemonia_Bacteria (2619).jpeg ,0
+Pnemonia_Bacteria (2620).jpeg ,0
+Pnemonia_Bacteria (2621).jpeg ,0
+Pnemonia_Bacteria (2622).jpeg ,0
+Pnemonia_Bacteria (2623).jpeg ,0
+Pnemonia_Bacteria (2624).jpeg ,0
+Pnemonia_Bacteria (2625).jpeg ,0
+Pnemonia_Bacteria (2626).jpeg ,0
+Pnemonia_Bacteria (2627).jpeg ,0
+Pnemonia_Bacteria (2628).jpeg ,0
+Pnemonia_Bacteria (2629).jpeg ,0
+Pnemonia_Bacteria (2630).jpeg ,0
+Pnemonia_Bacteria (2631).jpeg ,0
+Pnemonia_Bacteria (2632).jpeg ,0
+Pnemonia_Bacteria (2633).jpeg ,0
+Pnemonia_Bacteria (2634).jpeg ,0
+Pnemonia_Bacteria (2635).jpeg ,0
+Pnemonia_Bacteria (2636).jpeg ,0
+Pnemonia_Bacteria (2637).jpeg ,0
+Pnemonia_Bacteria (2638).jpeg ,0
+Pnemonia_Bacteria (2639).jpeg ,0
+Pnemonia_Bacteria (2640).jpeg ,0
+Pnemonia_Bacteria (2641).jpeg ,0
+Pnemonia_Bacteria (2642).jpeg ,0
+Pnemonia_Bacteria (2643).jpeg ,0
+Pnemonia_Bacteria (2644).jpeg ,0
+Pnemonia_Bacteria (2645).jpeg ,0
+Pnemonia_Bacteria (2646).jpeg ,0
+Pnemonia_Bacteria (2647).jpeg ,0
+Pnemonia_Bacteria (2648).jpeg ,0
+Pnemonia_Bacteria (2649).jpeg ,0
+Pnemonia_Bacteria (2650).jpeg ,0
+Pnemonia_Bacteria (2651).jpeg ,0
+Pnemonia_Bacteria (2652).jpeg ,0
+Pnemonia_Bacteria (2653).jpeg ,0
+Pnemonia_Bacteria (2654).jpeg ,0
+Pnemonia_Bacteria (2655).jpeg ,0
+Pnemonia_Bacteria (2656).jpeg ,0
+Pnemonia_Bacteria (2657).jpeg ,0
+Pnemonia_Bacteria (2658).jpeg ,0
+Pnemonia_Bacteria (2659).jpeg ,0
+Pnemonia_Bacteria (2660).jpeg ,0
+Pnemonia_Bacteria (2661).jpeg ,0
+Pnemonia_Bacteria (2662).jpeg ,0
+Pnemonia_Bacteria (2663).jpeg ,0
+Pnemonia_Bacteria (2664).jpeg ,0
+Pnemonia_Bacteria (2665).jpeg ,0
+Pnemonia_Bacteria (2666).jpeg ,0
+Pnemonia_Bacteria (2667).jpeg ,0
+Pnemonia_Bacteria (2668).jpeg ,0
+Pnemonia_Bacteria (2669).jpeg ,0
+Pnemonia_Bacteria (2670).jpeg ,0
+Pnemonia_Bacteria (2671).jpeg ,0
+Pnemonia_Bacteria (2672).jpeg ,0
+Pnemonia_Bacteria (2673).jpeg ,0
+Pnemonia_Bacteria (2674).jpeg ,0
+Pnemonia_Bacteria (2675).jpeg ,0
+Pnemonia_Bacteria (2676).jpeg ,0
+Pnemonia_Bacteria (2677).jpeg ,0
+Pnemonia_Bacteria (2678).jpeg ,0
+Pnemonia_Bacteria (2679).jpeg ,0
+Pnemonia_Bacteria (2680).jpeg ,0
+Pnemonia_Bacteria (2681).jpeg ,0
+Pnemonia_Bacteria (2682).jpeg ,0
+Pnemonia_Bacteria (2683).jpeg ,0
+Pnemonia_Bacteria (2684).jpeg ,0
+Pnemonia_Bacteria (2685).jpeg ,0
+Pnemonia_Bacteria (2686).jpeg ,0
+Pnemonia_Bacteria (2687).jpeg ,0
+Pnemonia_Bacteria (2688).jpeg ,0
+Pnemonia_Bacteria (2689).jpeg ,0
+Pnemonia_Bacteria (2690).jpeg ,0
+Pnemonia_Bacteria (2691).jpeg ,0
+Pnemonia_Bacteria (2692).jpeg ,0
+Pnemonia_Bacteria (2693).jpeg ,0
+Pnemonia_Bacteria (2694).jpeg ,0
+Pnemonia_Bacteria (2695).jpeg ,0
+Pnemonia_Bacteria (2696).jpeg ,0
+Pnemonia_Bacteria (2697).jpeg ,0
+Pnemonia_Bacteria (2698).jpeg ,0
+Pnemonia_Bacteria (2699).jpeg ,0
+Pnemonia_Bacteria (2700).jpeg ,0
+Pnemonia_Bacteria (2701).jpeg ,0
+Pnemonia_Bacteria (2702).jpeg ,0
+Pnemonia_Bacteria (2703).jpeg ,0
+Pnemonia_Bacteria (2704).jpeg ,0
+Pnemonia_Bacteria (2705).jpeg ,0
+Pnemonia_Bacteria (2706).jpeg ,0
+Pnemonia_Bacteria (2707).jpeg ,0
+Pnemonia_Bacteria (2708).jpeg ,0
+Pnemonia_Bacteria (2709).jpeg ,0
+Pnemonia_Bacteria (2710).jpeg ,0
+Pnemonia_Bacteria (2711).jpeg ,0
+Pnemonia_Bacteria (2712).jpeg ,0
+Pnemonia_Bacteria (2713).jpeg ,0
+Pnemonia_Bacteria (2714).jpeg ,0
+Pnemonia_Bacteria (2715).jpeg ,0
+Pnemonia_Bacteria (2716).jpeg ,0
+Pnemonia_Bacteria (2717).jpeg ,0
+Pnemonia_Bacteria (2718).jpeg ,0
+Pnemonia_Bacteria (2719).jpeg ,0
+Pnemonia_Bacteria (2720).jpeg ,0
+Pnemonia_Bacteria (2721).jpeg ,0
+Pnemonia_Bacteria (2722).jpeg ,0
+Pnemonia_Bacteria (2723).jpeg ,0
+Pnemonia_Bacteria (2724).jpeg ,0
+Pnemonia_Bacteria (2725).jpeg ,0
+Pnemonia_Bacteria (2726).jpeg ,0
+Pnemonia_Bacteria (2727).jpeg ,0
+Pnemonia_Bacteria (2728).jpeg ,0
+Pnemonia_Bacteria (2729).jpeg ,0
+Pnemonia_Bacteria (2730).jpeg ,0
+Pnemonia_Bacteria (2731).jpeg ,0
+Pnemonia_Bacteria (2732).jpeg ,0
+Pnemonia_Bacteria (2733).jpeg ,0
+Pnemonia_Bacteria (2734).jpeg ,0
+Pnemonia_Bacteria (2735).jpeg ,0
+Pnemonia_Bacteria (2736).jpeg ,0
+Pnemonia_Bacteria (2737).jpeg ,0
+Pnemonia_Bacteria (2738).jpeg ,0
+Pnemonia_Bacteria (2739).jpeg ,0
+Pnemonia_Bacteria (2740).jpeg ,0
+Pnemonia_Bacteria (2741).jpeg ,0
+Pnemonia_Bacteria (2742).jpeg ,0
+Pnemonia_Bacteria (2743).jpeg ,0
+Pnemonia_Bacteria (2744).jpeg ,0
+Pnemonia_Bacteria (2745).jpeg ,0
+Pnemonia_Bacteria (2746).jpeg ,0
+Pnemonia_Bacteria (2747).jpeg ,0
+Pnemonia_Bacteria (2748).jpeg ,0
+Pnemonia_Bacteria (2749).jpeg ,0
+Pnemonia_Bacteria (2750).jpeg ,0
+Pnemonia_Bacteria (2751).jpeg ,0
+Pnemonia_Bacteria (2752).jpeg ,0
+Pnemonia_Bacteria (2753).jpeg ,0
+Pnemonia_Bacteria (2754).jpeg ,0
+Pnemonia_Bacteria (2755).jpeg ,0
+Pnemonia_Bacteria (2756).jpeg ,0
+Pnemonia_Bacteria (2757).jpeg ,0
+Pnemonia_Bacteria (2758).jpeg ,0
+Pnemonia_Bacteria (2759).jpeg ,0
+Pnemonia_Bacteria (2760).jpeg ,0
+Pnemonia_Bacteria (2761).jpeg ,0
+Pnemonia_Bacteria (2762).jpeg ,0
+Pnemonia_Bacteria (2763).jpeg ,0
+Pnemonia_Bacteria (2764).jpeg ,0
+Pnemonia_Bacteria (2765).jpeg ,0
+Pnemonia_Bacteria (2766).jpeg ,0
+Pnemonia_Bacteria (2767).jpeg ,0
+Pnemonia_Bacteria (2768).jpeg ,0
+Pnemonia_Bacteria (2769).jpeg ,0
+Pnemonia_Bacteria (2770).jpeg ,0
+Pnemonia_Bacteria (2771).jpeg ,0
+Pnemonia_Bacteria (2772).jpeg ,0
+Pnemonia_Bacteria (2773).jpeg ,0
+Pnemonia_Virus (1343).jpeg ,0
+Pnemonia_Virus (1344).jpeg ,0
+Pnemonia_Virus (1345).jpeg ,0
+Pnemonia_Virus (1346).jpeg ,0
+Pnemonia_Virus (1347).jpeg ,0
+Pnemonia_Virus (1348).jpeg ,0
+Pnemonia_Virus (1349).jpeg ,0
+Pnemonia_Virus (1350).jpeg ,0
+Pnemonia_Virus (1351).jpeg ,0
+Pnemonia_Virus (1352).jpeg ,0
+Pnemonia_Virus (1353).jpeg ,0
+Pnemonia_Virus (1354).jpeg ,0
+Pnemonia_Virus (1355).jpeg ,0
+Pnemonia_Virus (1356).jpeg ,0
+Pnemonia_Virus (1357).jpeg ,0
+Pnemonia_Virus (1358).jpeg ,0
+Pnemonia_Virus (1359).jpeg ,0
+Pnemonia_Virus (1360).jpeg ,0
+Pnemonia_Virus (1361).jpeg ,0
+Pnemonia_Virus (1362).jpeg ,0
+Pnemonia_Virus (1363).jpeg ,0
+Pnemonia_Virus (1364).jpeg ,0
+Pnemonia_Virus (1365).jpeg ,0
+Pnemonia_Virus (1366).jpeg ,0
+Pnemonia_Virus (1367).jpeg ,0
+Pnemonia_Virus (1368).jpeg ,0
+Pnemonia_Virus (1369).jpeg ,0
+Pnemonia_Virus (1370).jpeg ,0
+Pnemonia_Virus (1371).jpeg ,0
+Pnemonia_Virus (1372).jpeg ,0
+Pnemonia_Virus (1373).jpeg ,0
+Pnemonia_Virus (1374).jpeg ,0
+Pnemonia_Virus (1375).jpeg ,0
+Pnemonia_Virus (1376).jpeg ,0
+Pnemonia_Virus (1377).jpeg ,0
+Pnemonia_Virus (1378).jpeg ,0
+Pnemonia_Virus (1379).jpeg ,0
+Pnemonia_Virus (1380).jpeg ,0
+Pnemonia_Virus (1381).jpeg ,0
+Pnemonia_Virus (1382).jpeg ,0
+Pnemonia_Virus (1383).jpeg ,0
+Pnemonia_Virus (1384).jpeg ,0
+Pnemonia_Virus (1385).jpeg ,0
+Pnemonia_Virus (1386).jpeg ,0
+Pnemonia_Virus (1387).jpeg ,0
+Pnemonia_Virus (1388).jpeg ,0
+Pnemonia_Virus (1389).jpeg ,0
+Pnemonia_Virus (1390).jpeg ,0
+Pnemonia_Virus (1391).jpeg ,0
+Pnemonia_Virus (1392).jpeg ,0
+Pnemonia_Virus (1393).jpeg ,0
+Pnemonia_Virus (1394).jpeg ,0
+Pnemonia_Virus (1395).jpeg ,0
+Pnemonia_Virus (1396).jpeg ,0
+Pnemonia_Virus (1397).jpeg ,0
+Pnemonia_Virus (1398).jpeg ,0
+Pnemonia_Virus (1399).jpeg ,0
+Pnemonia_Virus (1400).jpeg ,0
+Pnemonia_Virus (1401).jpeg ,0
+Pnemonia_Virus (1402).jpeg ,0
+Pnemonia_Virus (1403).jpeg ,0
+Pnemonia_Virus (1404).jpeg ,0
+Pnemonia_Virus (1405).jpeg ,0
+Pnemonia_Virus (1406).jpeg ,0
+Pnemonia_Virus (1407).jpeg ,0
+Pnemonia_Virus (1408).jpeg ,0
+Pnemonia_Virus (1409).jpeg ,0
+Pnemonia_Virus (1410).jpeg ,0
+Pnemonia_Virus (1411).jpeg ,0
+Pnemonia_Virus (1412).jpeg ,0
+Pnemonia_Virus (1413).jpeg ,0
+Pnemonia_Virus (1414).jpeg ,0
+Pnemonia_Virus (1415).jpeg ,0
+Pnemonia_Virus (1416).jpeg ,0
+Pnemonia_Virus (1417).jpeg ,0
+Pnemonia_Virus (1418).jpeg ,0
+Pnemonia_Virus (1419).jpeg ,0
+Pnemonia_Virus (1420).jpeg ,0
+Pnemonia_Virus (1421).jpeg ,0
+Pnemonia_Virus (1422).jpeg ,0
+Pnemonia_Virus (1423).jpeg ,0
+Pnemonia_Virus (1424).jpeg ,0
+Pnemonia_Virus (1425).jpeg ,0
+Pnemonia_Virus (1426).jpeg ,0
+Pnemonia_Virus (1427).jpeg ,0
+Pnemonia_Virus (1428).jpeg ,0
+Pnemonia_Virus (1429).jpeg ,0
+Pnemonia_Virus (1430).jpeg ,0
+Pnemonia_Virus (1431).jpeg ,0
+Pnemonia_Virus (1432).jpeg ,0
+Pnemonia_Virus (1433).jpeg ,0
+Pnemonia_Virus (1434).jpeg ,0
+Pnemonia_Virus (1435).jpeg ,0
+Pnemonia_Virus (1436).jpeg ,0
+Pnemonia_Virus (1437).jpeg ,0
+Pnemonia_Virus (1438).jpeg ,0
+Pnemonia_Virus (1439).jpeg ,0
+Pnemonia_Virus (1440).jpeg ,0
+Pnemonia_Virus (1441).jpeg ,0
+Pnemonia_Virus (1442).jpeg ,0
+Pnemonia_Virus (1443).jpeg ,0
+Pnemonia_Virus (1444).jpeg ,0
+Pnemonia_Virus (1445).jpeg ,0
+Pnemonia_Virus (1446).jpeg ,0
+Pnemonia_Virus (1447).jpeg ,0
+Pnemonia_Virus (1448).jpeg ,0
+Pnemonia_Virus (1449).jpeg ,0
+Pnemonia_Virus (1450).jpeg ,0
+Pnemonia_Virus (1451).jpeg ,0
+Pnemonia_Virus (1452).jpeg ,0
+Pnemonia_Virus (1453).jpeg ,0
+Pnemonia_Virus (1454).jpeg ,0
+Pnemonia_Virus (1455).jpeg ,0
+Pnemonia_Virus (1456).jpeg ,0
+Pnemonia_Virus (1457).jpeg ,0
+Pnemonia_Virus (1458).jpeg ,0
+Pnemonia_Virus (1459).jpeg ,0
+Pnemonia_Virus (1460).jpeg ,0
+Pnemonia_Virus (1461).jpeg ,0
+Pnemonia_Virus (1462).jpeg ,0
+Pnemonia_Virus (1463).jpeg ,0
+Pnemonia_Virus (1464).jpeg ,0
+Pnemonia_Virus (1465).jpeg ,0
+Pnemonia_Virus (1466).jpeg ,0
+Pnemonia_Virus (1467).jpeg ,0
+Pnemonia_Virus (1468).jpeg ,0
+Pnemonia_Virus (1469).jpeg ,0
+Pnemonia_Virus (1470).jpeg ,0
+Pnemonia_Virus (1471).jpeg ,0
+Pnemonia_Virus (1472).jpeg ,0
+Pnemonia_Virus (1473).jpeg ,0
+Pnemonia_Virus (1474).jpeg ,0
+Pnemonia_Virus (1475).jpeg ,0
+Pnemonia_Virus (1476).jpeg ,0
+Pnemonia_Virus (1477).jpeg ,0
+Pnemonia_Virus (1478).jpeg ,0
+Pnemonia_Virus (1479).jpeg ,0
+Pnemonia_Virus (1480).jpeg ,0
+Pnemonia_Virus (1481).jpeg ,0
+Pnemonia_Virus (1482).jpeg ,0
+Pnemonia_Virus (1483).jpeg ,0
+Pnemonia_Virus (1484).jpeg ,0
+Pnemonia_Virus (1485).jpeg ,0
+Pnemonia_Virus (1486).jpeg ,0
+Pnemonia_Virus (1487).jpeg ,0
+Pnemonia_Virus (1488).jpeg ,0
+Pnemonia_Virus (1489).jpeg ,0
+Pnemonia_Virus (1490).jpeg ,0
+Pnemonia_Virus (1491).jpeg ,0
+Pnemonia_Virus (1492).jpeg ,0
+SARS (11).jpeg,1
